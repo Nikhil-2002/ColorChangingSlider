@@ -1,0 +1,10 @@
+{
+  "stopPoints": [
+    { "position": "1%", "color": "Black" },
+    { "position": "20%", "color": "Red" },
+    { "position": "40%", "color": "Blue" },
+    { "position": "60%", "color": "Green" },
+    { "position": "80%", "color": "Yellow" },
+    { "position": "99%", "color": "Pink" }
+  ]
+}
