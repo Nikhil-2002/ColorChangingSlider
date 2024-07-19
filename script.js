@@ -21,7 +21,7 @@ function createStopPoints(stopPoints) {
     stopPoint.className = "stop-point";
     stopPoint.style.left = point.position;
     stopPoint.style.backgroundColor = point.color;
-    /*  stopPoint.setAttribute("data-color", point.color); */
+    stopPoint.setAttribute("data-color", point.color); 
     bar.appendChild(stopPoint);
 
     const colorName = document.createElement("div");
